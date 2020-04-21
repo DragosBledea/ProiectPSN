@@ -1,0 +1,1 @@
+-wto "96666cdd86004ce98965e0628126bd88" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Digit_to_array_behav" "xil_defaultlib.Digit_to_array" -log "elaborate.log" 

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Vivado/Proiect/digit_into_array/digit_into_array.srcs/sources_1/new/and_gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Vivado/Proiect/Bancomat-vhdl-master/my_types.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/Vivado/Proiect/digit_into_array/digit_into_array.srcs/sources_1/new/Digit_to_array.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Digit_to_array'
